@@ -1,1 +1,1 @@
-echo "Lets test some code here!"
+start "cmd.exe"
