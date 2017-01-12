@@ -1,1 +1,3 @@
-echo "Quack Quack"
+echo "This is my rubber ducky!!!" > .\msg.txt
+echo "Quack Quack" >> .\msg.txt
+start notepad .\msg.txt
