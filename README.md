@@ -10,3 +10,14 @@ This Repo contains the .ino source code needed to utilize PowerShell to run ever
 
 **Note**
 This is a keyboard emulation device, meaning it will work on anything that will support a USB keyboard. Windows, Mac, Linux, it cares not. There are obvious dificulties with trying to run PowerShell in the latter two however, so the firmware will have to be edited to suit your purpose. I am working on a way to detect the OS but given this is a keyboard output only device, it has its challanges.
+
+
+Files:
+KeyBoardTest:
+Test the keyboard emulation function by opening notepad and printing a paragaraph.
+
+KeyBoardRun:
+Key Board Emulator program written for Arduino Studio to execute immediately upon USB Device loading on the system.
+
+KeyBoardPersistant:
+Key Board Emulator program written for Arduino Studio to execute 30 minutes after USB Device is loaded on the system.
