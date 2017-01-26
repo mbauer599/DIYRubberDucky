@@ -1,4 +1,4 @@
-**Disclaimer: This is not intended to be used maliciously, and I will take no responsibility in actions that were not my own. I have to many of my own actions to worry about yours.**
+**Disclaimer: This is not intended to be used maliciously, and I will take no responsibility in actions that were not my own. Sorry but I have too much going on in my own life to worry about yours.**
 
 This is a proof of concept for a homemade $2 rubber ducky. It was created to be a command and control hub, as well as store all the source code for anyone who wants to have a little fun. 
 
