@@ -11,7 +11,7 @@ Hardware Used:
 This Repo contains the .ino source code needed to utilize PowerShell to run everything in the 'run' file in the directory on GitHub. If you want to use this same style, just fork this repo, change the URL the source code points too to the raw of the run file in your repo, flash it to your USB device, and add code to the 'run' file as you see fit. Each time you plug in the device it will open powershell through the run window, execute wget <URL to raw of run file>, save that as a script, and execute.
 
 **Note**
-This is a keyboard emulation device, meaning it will work on anything that will support a USB keyboard. Windows, Mac, Linux, it cares not. There are obvious dificulties with trying to run PowerShell in the latter two however, so the firmware will have to be edited to suit your purpose. I am working on a way to detect the OS but given this is a keyboard output only device, it has its challanges.
+This is a keyboard emulation device, meaning it will work on anything that will support a USB keyboard. Windows, Mac, Linux, it cares not. There are obvious dificulties with trying to run PowerShell in the latter two however, so the firmware will have to be edited to suit your purpose.
 
 
 Files:
