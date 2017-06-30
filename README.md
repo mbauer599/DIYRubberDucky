@@ -30,3 +30,6 @@ Future Plans:
   -- Upload keyboard output to device without flashing
   -- Keystroke time fuzzing
   -- Bash version
+  
+  
+  If you enjoy this project then keep me going with a cup of coffee! paypal.me/mbauer599
