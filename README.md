@@ -32,4 +32,4 @@ Future Plans:
   -- Bash version
   
   
-  If you enjoy this project then keep me going with a cup of coffee! paypal.me/mbauer599
+  If you enjoy this project then keep me going with a cup of coffee! http://www.paypal.me/mbauer599
