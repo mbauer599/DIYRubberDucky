@@ -26,7 +26,6 @@ Key Board Emulator program written for Arduino Studio to execute 30 minutes afte
 
 
 Future Plans:
-  -- Seperate repositories for each build
   -- Upload keyboard output to device without flashing
   -- Keystroke time fuzzing
   -- Bash version
