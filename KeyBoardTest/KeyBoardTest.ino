@@ -2,7 +2,7 @@
 /* Init function */
 void setup()
 {
- //turn LED off while code is running, this means the device is safe to unplug as soon as the LED turns back on
+ //turn LED off while code is running. Unplugging this while active shouldnt hurt anything.
  pinMode(1, OUTPUT); //LED on Model A
  digitalWrite(1, HIGH);
  DigiKeyboard.delay(500);
@@ -56,5 +56,4 @@ void setup()
  digitalWrite(1, HIGH);
 }
 
-/* Unused endless loop */
 void loop() {}
