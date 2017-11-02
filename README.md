@@ -1,8 +1,7 @@
-
-
+# DIY Rubber Ducky
 This is a proof of concept for a homemade $2 rubber ducky. This repo serves as a command and control hub, as well as store all the source code for anyone who wants to have a little fun.
 
-Hardware Used:
+Hardware:
   ATtiny 85 USB Dev Board (http://digistump.com/products/1)
     I suggest you buy this on eBay, best deal I've seen is $0.99 with $1 shipping. You could use any USB dev board for this however. 
     You can find the device driver for the ATtiny 85 processor here:
