@@ -3,8 +3,8 @@ This is a proof of concept for a homemade $2 rubber ducky. This repo serves as a
 
 # Hardware
 ATtiny 85 USB Dev Board (http://digistump.com/products/1)
-    * I suggest you buy this on eBay, the best deal I've seen is $0.99 with $1 shipping. You could use any USB dev board for this however. 
-    * You can find the device driver for the ATtiny 85 processor [here](https://cdn.sparkfun.com/datasheets/Dev/AVR/usbtinyisp_libusb_1.2.6.0.zip)
+* I suggest you buy this on eBay, the best deal I've seen is $0.99 with $1 shipping. You could use any USB dev board for this however. 
+* You can find the device driver for the ATtiny 85 processor [here](https://cdn.sparkfun.com/datasheets/Dev/AVR/usbtinyisp_libusb_1.2.6.0.zip)
 
 This Repo contains the .ino source code needed to have your little tool of doom utilize PowerShell to run everything in the 'run' file in this project directory on GitHub. If you want to use this project for your own ends, just fork this repo, change the URL the source code points too to the raw of the run file in your repo (or any source of one's choosing, say https://www.pastebin.com), flash it to your USB device, and add code to the 'run' file as you see fit. Each time you plug in the device it will open powershell through the run window, execute wget <URL>(Assuming there is a new enough version of PowerShell), save that as a script, and execute. **The run file in this repo will never change to anything malicious so feel free to use it to test. -- Non-Suspicious GitHub User.** 
 
