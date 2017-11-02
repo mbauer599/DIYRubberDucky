@@ -14,19 +14,19 @@ This is a keyboard emulation device, meaning it will work on anything that will 
 
 # Included Firmware
 KeyBoardTest:
-Test the keyboard emulation function by opening notepad and printing a paragaraph.
+* Test the keyboard emulation function by opening notepad and printing a paragaraph.
 
 KeyBoardRun:
-Key Board Emulator program written for Arduino Studio to execute immediately upon USB Device loading on the system.
+* Key Board Emulator program written for Arduino Studio to execute immediately upon USB Device loading on the system.
 
 KeyBoardPersistant:
-Key Board Emulator program written for Arduino Studio to execute 30 minutes after USB Device is loaded on the system.
+* Key Board Emulator program written for Arduino Studio to execute 30 minutes after USB Device is loaded on the system.
 
 
 Future Plans:
-  -- Upload keyboard output to device without flashing
-  -- Keystroke time fuzzing
-  -- Bash version
+  * Upload keyboard output to device without flashing
+  * Keystroke time fuzzing
+  * Bash firmware
   
   
   If you enjoy this project then keep me going with a cup of coffee! http://www.paypal.me/mbauer599
