@@ -12,7 +12,7 @@ This Repo contains the .ino source code needed to have your little tool of doom 
 This is a keyboard emulation device, meaning it will work on anything that will support a USB keyboard. Windows, Mac, Linux, it cares not. There are obvious dificulties with trying to run PowerShell in the latter two however, so the firmware will have to be edited to suit your purpose but this is pretty simple. You may also edit this to perform other actions, such as lock a computer screen after printing your message, rebooting a computer, or literally anything you can think of.
 
 
-Files:
+# Included Firmware
 KeyBoardTest:
 Test the keyboard emulation function by opening notepad and printing a paragaraph.
 
