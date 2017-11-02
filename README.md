@@ -1,4 +1,4 @@
-**Disclaimer: This is not intended to be used maliciously, and I will take no responsibility in actions that were not my own. Sorry but I have too much going on in my own life to worry about yours. You use this at your own risk. It goes without saying that this project should not be used in a system you don't own or have permission to execute this project on.**
+
 
 This is a proof of concept for a homemade $2 rubber ducky. This repo serves as a command and control hub, as well as store all the source code for anyone who wants to have a little fun.
 
@@ -32,3 +32,7 @@ Future Plans:
   
   
   If you enjoy this project then keep me going with a cup of coffee! http://www.paypal.me/mbauer599
+  
+  
+# Disclaimer
+**This is not intended to be used maliciously, and I will take no responsibility in actions that were not my own. Sorry but I have too much going on in my own life to worry about yours. You use this at your own risk. It goes without saying that this project should not be used in a system you don't own or have permission to execute this project on.**
