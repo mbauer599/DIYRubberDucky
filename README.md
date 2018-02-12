@@ -29,7 +29,8 @@ Future Plans:
   * Bash firmware
   
   
-  If you enjoy this project then keep me going with a cup of coffee! http://www.paypal.me/mbauer599
+# Keep me Going
+[If you like my work or find it usefull, keep me going with a cup of coffee!](http://www.paypal.me/mbauer599)
   
   
 # Disclaimer
